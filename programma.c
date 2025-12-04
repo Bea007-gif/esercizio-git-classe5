@@ -4,7 +4,7 @@ int somma(int a, int b) {
 }
 
 main(){
-	printf("Hello world");
+	printf("Hello world");// commento
 	printf("Beatrice Mamone");
 	
 	 int x = 5;
